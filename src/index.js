@@ -1,3 +1,4 @@
+// This is the index.js file
 import { StrictMode } from "react";
 import ReactDOM from "react-dom";
 
