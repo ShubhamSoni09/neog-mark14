@@ -1,3 +1,4 @@
+// This is the App.js file
 import { useState } from "react";
 import "./styles.css";
 import stocks from "./stocks.svg";
