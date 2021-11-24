@@ -2,7 +2,7 @@
 
 This is the mark14 of the levelZero of the bootcamp.
 
-Link: https://00ufi.csb.app/
+Link: https://7fudt.csb.app/
   
 ## Features
   
