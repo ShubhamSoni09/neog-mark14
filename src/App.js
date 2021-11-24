@@ -63,7 +63,7 @@ export default function App() {
         <h1>Stocks Yay or Nay?</h1>
         <div>
           <a
-            href="https://github.com/ShubhamSoni09/neoG-markFourteen"
+            href="https://github.com/ShubhamSoni09/neoG-mark14"
             target="_blank"
             rel="noopener noreferrer"
           >
